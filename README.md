@@ -1,6 +1,6 @@
 # Discord Bot Custom Mail Manager
 
-I created this Discord Bot to manage emails stored in a cloud database from the contact form on my portfolio. It is developed with the Python programming language. And
+I created this Discord Bot to manage emails stored in a cloud database from the contact form on my portfolio. It is developed with the Python programming language.
 
 📑Features:
 
